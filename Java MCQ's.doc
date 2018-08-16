@@ -1,0 +1,3331 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff31507\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi31507\deflang1033\deflangfe1033\themelang1033\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fbidi \fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f34\fbidi \froman\fcharset1\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fdbmajor\f31501\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fhimajor\f31502\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria;}
+{\fbimajor\f31503\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\flominor\f31504\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fdbminor\f31505\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}
+{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f39\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\f40\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\f42\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f43\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f44\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f45\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\f46\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f47\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f49\fbidi \fswiss\fcharset238\fprq2 Arial CE;}{\f50\fbidi \fswiss\fcharset204\fprq2 Arial Cyr;}
+{\f52\fbidi \fswiss\fcharset161\fprq2 Arial Greek;}{\f53\fbidi \fswiss\fcharset162\fprq2 Arial Tur;}{\f54\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f55\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}
+{\f56\fbidi \fswiss\fcharset186\fprq2 Arial Baltic;}{\f57\fbidi \fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\flomajor\f31508\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flomajor\f31509\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\flomajor\f31511\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\flomajor\f31512\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flomajor\f31513\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\flomajor\f31514\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\flomajor\f31515\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flomajor\f31516\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\fdbmajor\f31518\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fdbmajor\f31519\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbmajor\f31521\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\fdbmajor\f31522\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fdbmajor\f31523\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbmajor\f31524\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\fdbmajor\f31525\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fdbmajor\f31526\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhimajor\f31528\fbidi \froman\fcharset238\fprq2 Cambria CE;}
+{\fhimajor\f31529\fbidi \froman\fcharset204\fprq2 Cambria Cyr;}{\fhimajor\f31531\fbidi \froman\fcharset161\fprq2 Cambria Greek;}{\fhimajor\f31532\fbidi \froman\fcharset162\fprq2 Cambria Tur;}
+{\fhimajor\f31535\fbidi \froman\fcharset186\fprq2 Cambria Baltic;}{\fhimajor\f31536\fbidi \froman\fcharset163\fprq2 Cambria (Vietnamese);}{\fbimajor\f31538\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fbimajor\f31539\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fbimajor\f31541\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbimajor\f31542\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\fbimajor\f31543\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fbimajor\f31544\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbimajor\f31545\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\fbimajor\f31546\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\flominor\f31548\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flominor\f31549\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\flominor\f31551\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\flominor\f31552\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flominor\f31553\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\flominor\f31554\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\flominor\f31555\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flominor\f31556\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\fdbminor\f31558\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fdbminor\f31559\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbminor\f31561\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\fdbminor\f31562\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fdbminor\f31563\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbminor\f31564\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\fdbminor\f31565\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fdbminor\f31566\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhiminor\f31568\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}
+{\fhiminor\f31569\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}{\fhiminor\f31571\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}{\fhiminor\f31572\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}
+{\fhiminor\f31575\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}{\fhiminor\f31576\fbidi \fswiss\fcharset163\fprq2 Calibri (Vietnamese);}{\fbiminor\f31578\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fbiminor\f31579\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fbiminor\f31581\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbiminor\f31582\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\fbiminor\f31583\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fbiminor\f31584\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbiminor\f31585\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\fbiminor\f31586\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;
+\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\*\defchp 
+\fs22\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap \ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\ql \li0\ri0\sa200\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs22\alang1025 \ltrch\fcs0 \fs22\lang1033\langfe1033\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext0 \sqformat \spriority0 Normal;}
+{\*\cs10 \additive \ssemihidden \sunhideused \spriority1 Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa200\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs22\alang1025 \ltrch\fcs0 \fs22\lang1033\langfe1033\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext11 \ssemihidden \sunhideused 
+Normal Table;}}{\*\revtbl {Unknown;}}{\*\rsidtbl \rsid5732936\rsid9704764}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator swapna reniguntla}{\creatim\yr2018\mo8\dy9\hr15\min9}
+{\revtim\yr2018\mo8\dy9\hr16\min17}{\version2}{\edmins68}{\nofpages58}{\nofwords6467}{\nofchars36867}{\nofcharsws43248}{\vern49247}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}
+\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\gutter0\ltrsect 
+\widowctrl\ftnbj\aenddoc\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\horzdoc\dghspace120\dgvspace120\dghorigin1701
+\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\rsidroot9704764 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2
+\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang 
+{\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs22\alang1025 \ltrch\fcs0 \fs22\lang1033\langfe1033\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 {
+\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid5732936 
+\par \hich\af1\dbch\af31505\loch\f1 1)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Class C \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String[] args) \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 int[]a1[]=new int[3][3]; //3
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 int a2[4]=\{3,4,5,6\}; //4
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 int a2[5]; //5
+\par 
+\par \}\}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What is the result of attempting to compile and run the program ?.
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 1.compiletime error at lines 3,4,5
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 2.compiltime error at line 4,5
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 3.compiletime error at line 3
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 4.Runtime Exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 5.None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 no value shoud be specified in the rightsidebrackets when constructing an array
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par \hich\af1\dbch\af31505\loch\f1 2)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 interface I\{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 void f1(); // 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public void f2(); // 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 protected void f3(); // 3
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 private void f4(); // 4
+\par 
+\par \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 which lines generate compile time errors?
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 1.compiletime error at lines 1,2,3,4
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 2.compiletime error at line 3
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 3.compiletime error at line 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 4.compiletime error at lines 3,4
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 5.None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Answer: 4
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 all methods declared within an interface are implicitly public, a weaker access level can not be declared.
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 3)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C\{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 int i;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public static void main (String[] args) \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 int i; //1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 private int a = 1; //2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 p\hich\af1\dbch\af31505\loch\f1 rotected int b = 1; //3
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public int c = 1; //4
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 System.out.println(a+b+c); //5
+\par 
+\par \}\}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 1.compiletime error at lines 1,2,3,4,5
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 2 compiletime error at lines 2,3,4,5
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 3.compiletime error at lines 2,3,4
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 4.prints 3
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 5.None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Answer  2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 The access modifiers public, protected and private, can not be applied to variables declared inside methods.
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 4)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public static void main (String[] a1) \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 System.out.print(a1[1] + a1[2] + a1[3]);
+\par 
+\par \}\}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What is the result of attempting to compile and run the program?
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 java command A B C
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 1.Prints: ABC
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 2.Prints BC and Runtime Exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 3.Prints: BCD
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 4.Runtime Exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 5.None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Answer 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 array index outof bounds exception on\hich\af1\dbch\af31505\loch\f1 ly till a1[2] is allowed.
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 5)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C\{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 static int s;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String a[])\{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 C obj=new C();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 obj.m1();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 System.out.println(s);
+\par 
+\par \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 void m1();
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 int x=1;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 m2(x);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 System.out.println(x+"");
+\par 
+\par \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 void m2(int x)\{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 x=x*2;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 s=x;
+\par 
+\par \}\}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 1.prints 1,2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 2.prints 2,0
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 3.prints 2,2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 4.compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 5.Noneofthe above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Answer: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Only objects and arrays are passed by reference.other are passed by value.s is a static variable which is global to the class
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 6)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public\hich\af1\dbch\af31505\loch\f1  static void main(String[] args) \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 int i1=1;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 switch(i1)\{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 case 1:
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 System.out.println("one");
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 case 2:
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 System.out.println("two");
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 case 3:
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 System.out.println("three");
+\par 
+\par \}\}\}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What is the result of attempting to compile and run the program?
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 1.prints one two three
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 2.prints one
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 3.compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 4.Runtime exceptionf
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 5.None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Answer: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 There is no break statement in case 1 so it causes the below case statements to execute regardless of their values
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 7)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  Each element must be unique
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  Duplicate elements must not replace old elements.
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  Elements are not key/value pairs.
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Accessing an element can be almost as fast as performing a similar operation on an array.
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Which of these classes provide the specified fe\hich\af1\dbch\af31505\loch\f1 atures?
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 1.LinkedList
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 2.TreeMap
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 3.HashMap
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 4.HashSet
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 5.None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Answer: 4
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 8)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C1
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 static interface I
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 static class C2
+\par 
+\par \{
+\par 
+\par \}
+\par 
+\par \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String a[])
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 C1.I.C2 ob1=new C1.I.C2();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 System.out.println("object created");
+\par 
+\par \}
+\par 
+\par \}
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What is the result of attempting to compile and run the program?
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 1.prints object created
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 2.Compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 3.Runtime Excepion
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 4.None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Answer: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 A \hich\af1\dbch\af31505\loch\f1 static interface or class can contain static members.Static members can be accessed without instantiating the particular class
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 9)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C1
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 static class C2
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 static int i1;
+\par 
+\par \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String a[])
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 System.out.println(C1.C2.i1);
+\par 
+\par \}
+\par 
+\par \}
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What is the result of attempting to compile and run the program?
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 1.prints 0
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 2.Compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 3.Runtime exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 4.None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Answer: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 static members can be accessed without instantiating the particular class
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 10)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 A signed data type has an equal number of non-zero positive and negative values available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 1.true
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 2.false
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Answer: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 The range of negative numbers is greater by 1 than the range of positive numbers
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 11)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C\{
+\par \hich\af1\dbch\af31505\loch\f1 static int f1(int i) \{
+\par \hich\af1\dbch\af31505\loch\f1 System.out.print(i + ",");
+\par \hich\af1\dbch\af31505\loch\f1 return 0;
+\par \}
+\par \hich\af1\dbch\af31505\loch\f1 public static void main (String[] args) \{
+\par \hich\af1\dbch\af31505\loch\f1 int i = 0;
+\par \hich\af1\dbch\af31505\loch\f1 i = i++ + f1(i);
+\par \hich\af1\dbch\af31505\loch\f1 System.out.print(i);
+\par \}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints: 0,0
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints: 1,0
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints: 0,1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Compile-time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Expl\hich\af1\dbch\af31505\loch\f1 anation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 12)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C\{
+\par \hich\af1\dbch\af31505\loch\f1 static String m(int i) \{return "int";\}
+\par \hich\af1\dbch\af31505\loch\f1 static String m(float i) \{return "float";\}
+\par \hich\af1\dbch\af31505\loch\f1 public static void main (String[] args) \{
+\par \hich\af1\dbch\af31505\loch\f1 long a1 = 1; double b1 = 2;
+\par \hich\af1\dbch\af31505\loch\f1 System.out.print(m(a1)+","+ m(b1));
+\par \}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints: float,double
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints: float,float
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints: double,float
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Compile-time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 4
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 13)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String a[])
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1 C c1=new C();
+\par \hich\af1\dbch\af31505\loch\f1 C c2=m1(c1);
+\par \hich\af1\dbch\af31505\loch\f1 C c3=new C();
+\par \hich\af1\dbch\af31505\loch\f1 c2=c3;              //6
+\par \hich\af1\dbch\af31505\loch\f1 anothermethod();
+\par \}
+\par \hich\af1\dbch\af31505\loch\f1 static C m1(C ob1)\{
+\par \hich\af1\dbch\af31505\loch\f1 ob1 =new C();
+\par \hich\af1\dbch\af31505\loch\f1 return ob1;
+\par \}
+\par \}
+\par \hich\af1\dbch\af31505\loch\f1 After line 6, how many objects are eligible for garbage collection?
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 3
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 4
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 14)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 1. StringBuffer s1 = new StringBuffer("abc");
+\par \hich\af1\dbch\af31505\loch\f1 2. StringBuffer s2 = s1;
+\par \hich\af1\dbch\af31505\loch\f1 3. StringBuffer s3 = new StringBuffer("abc");
+\par \hich\af1\dbch\af31505\loch\f1 How many objects are created ?
+\par 
+\par 
+\par 0
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 3
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 4
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 15)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class c2
+\par \{
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1  System.out.println("initializer");
+\par \}
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String a[])
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1 System.out.println("main");
+\par \hich\af1\dbch\af31505\loch\f1  c2 ob1=new c2();
+\par \}
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints main and initializer
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints  initializer and main
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 16)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class c1
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String a[])
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1 c1 ob1=new c1();
+\par \hich\af1\dbch\af31505\loch\f1 Object ob2=ob1;
+\par \hich\af1\dbch\af31505\loch\f1 System.out.println(ob2 instanceof Object);
+\par \hich\af1\dbch\af31505\loch\f1 System.out.println(ob2 instanceof c1);
+\par \}
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints true,false
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Print false,true
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints tru\hich\af1\dbch\af31505\loch\f1 e,true
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 3
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 17)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class A extends Thread \{
+\par \hich\af1\dbch\af31505\loch\f1 private int i;
+\par \hich\af1\dbch\af31505\loch\f1 public void run() \{i = 1;\}
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String[] args) \{
+\par \hich\af1\dbch\af31505\loch\f1 A a = new A();
+\par \hich\af1\dbch\af31505\loch\f1 a.run();
+\par \hich\af1\dbch\af31505\loch\f1 System.out.print(a.i);
+\par \}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints nothing
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints: 01
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Compile-time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 a.run() method was called instead of a.start(); so the full program runs as a single thread so a.run() is guaranteed to complete 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 18)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class bike
+\par \{
+\par \}
+\par \hich\af1\dbch\af31505\loch\f1 class arr extends bike\{
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String[] args) \{
+\par \hich\af1\dbch\af31505\loch\f1 arr[] a1=new arr[2];    
+\par \hich\af1\dbch\af31505\loch\f1 bike[] a2;             
+\par \hich\af1\dbch\af31505\loch\f1 a2=a1;                 //3
+\par \hich\af1\dbch\af31505\loch\f1 arr[] a3;              
+\par \hich\af1\dbch\af31505\loch\f1 a3=a1;                //5
+\par \}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at line 3
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at line 5
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Runtime exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 The code runs fine
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 bike is the superclass of arr.so they are compatible(superobject=subobject)
+\par \hich\af1\dbch\af31505\loch\f1 but subobject=superobject not allowed
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 4
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 19)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C\{
+\par \hich\af1\dbch\af31505\loch\f1 public static void main (String[] args) \{
+\par \hich\af1\dbch\af31505\loch\f1 String s1="hjhh";        // 1
+\par \hich\af1\dbch\af31505\loch\f1 String s2="\\u0002";      //2
+\par \hich\af1\dbch\af31505\loch\f1 String s3="'\\\\'";        //3
+\par \}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at line 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at line 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at line 3
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Runtime exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 the code runs without any error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 A String literal is a sequence of characters enclosed in double quotes
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 5
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 20)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Which data type is wider for the purpose of casting: float or long?
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 float
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 long
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 float is wider than long, because the entire range of long fits within the \hich\af1\dbch\af31505\loch\f1 range of float.
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 21)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C\{
+\par \hich\af1\dbch\af31505\loch\f1 public static void main (String[] args) \{
+\par \hich\af1\dbch\af31505\loch\f1 byte b1=33;              //1
+\par \hich\af1\dbch\af31505\loch\f1 b1++;                    //2
+\par \hich\af1\dbch\af31505\loch\f1 byte b2=55;              //3
+\par \hich\af1\dbch\af31505\loch\f1 b2=b1+1;                 //4
+\par \hich\af1\dbch\af31505\loch\f1 System.out.println(b1+""+b2);
+\par \}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at line   2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at line   4
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints 34,56
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 runtime exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 none of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 b1+1 returns an integer value which can not be assigned to a byte variable
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 22)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 import java.util.*;
+\par \hich\af1\dbch\af31505\loch\f1 class  C
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1   final Vector v;
+\par \hich\af1\dbch\af31505\loch\f1   C()
+\par \hich\af1\dbch\af31505\loch\f1   \{
+\par \hich\af1\dbch\af31505\loch\f1           v=new Vector();
+\par \hich\af1\dbch\af31505\loch\f1   \}
+\par \hich\af1\dbch\af31505\loch\f1    C(int i)
+\par \hich\af1\dbch\af31505\loch\f1   \{
+\par \hich\af1\dbch\af31505\loch\f1        
+\par \hich\af1\dbch\af31505\loch\f1   \}
+\par \hich\af1\dbch\af31505\loch\f1   public void someMethod()
+\par \hich\af1\dbch\af31505\loch\f1   \{
+\par \hich\af1\dbch\af31505\loch\f1           System.out.println(v.isEmpty());
+\par \hich\af1\dbch\af31505\loch\f1   \}
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 runtime exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 the code compiles and runs fine
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 none of the abov\hich\af1\dbch\af31505\loch\f1 e
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 23)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C1\{
+\par \hich\af1\dbch\af31505\loch\f1 public void m1()\{    // 1
+\par \}
+\par \}
+\par \hich\af1\dbch\af31505\loch\f1 class C2 extends C1\{ //2
+\par \hich\af1\dbch\af31505\loch\f1 private void  m1()\{   
+\par \}
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at  line1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at  line2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Runtime exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 tending to assign weaker access not allowed
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 24)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 interface I\{
+\par \hich\af1\dbch\af31505\loch\f1 int i;                            // line 1
+\par \}
+\par \hich\af1\dbch\af31505\loch\f1 class C implements I\{
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String a[])\{
+\par \hich\af1\dbch\af31505\loch\f1    System.out.println(i);
+\par \hich\af1\dbch\af31505\loch\f1    System.out.println(i++);  //line 2
+\par \}
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at line 1,2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at line 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Runtime exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Noneofthe above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 interface constants are final so,they must be initialized when declaring it and they can not be altered
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 25)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 An abstract class must h\hich\af1\dbch\af31505\loch\f1 ave at least one abstract method
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 true
+\par 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid9704764 \hich\af1\dbch\af31505\loch\f1 false}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid5732936 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 An abstract without abstract methods is allowed
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 26)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 <![CDATA[
+\par \hich\af1\dbch\af31505\loch\f1 class C \{
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String[] args) \{
+\par \hich\af1\dbch\af31505\loch\f1   boolean b1;
+\par \hich\af1\dbch\af31505\loch\f1   b1=3<4<5;                //1
+\par \hich\af1\dbch\af31505\loch\f1   System.ou\hich\af1\dbch\af31505\loch\f1 t.println(b1);  //2
+\par \}\}
+\par \hich\af1\dbch\af31505\loch\f1 ]]>
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at line 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at line 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Runtime exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 <![CDATA[
+\par \hich\af1\dbch\af31505\loch\f1 3<4<5 evaulates to true<5 -->it's a wrong expression so it results in compiletime error
+\par \hich\af1\dbch\af31505\loch\f1 ]]>
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 27)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C\{
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String[] args) \{
+\par \hich\af1\dbch\af31505\loch\f1   try
+\par \hich\af1\dbch\af31505\loch\f1     \{
+\par \hich\af1\dbch\af31505\loch\f1         int i1=3/0;
+\par \hich\af1\dbch\af31505\loch\f1       \}
+\par \hich\af1\dbch\af31505\loch\f1     catch(Exception e)
+\par \hich\af1\dbch\af31505\loch\f1     \{
+\par \hich\af1\dbch\af31505\loch\f1      System.out.println("exception1");
+\par \hich\af1\dbch\af31505\loch\f1      \}
+\par \hich\af1\dbch\af31505\loch\f1     catch(NullPointerException e)
+\par \hich\af1\dbch\af31505\loch\f1     \{
+\par \hich\af1\dbch\af31505\loch\f1     System.out.println("exception2");
+\par \hich\af1\dbch\af31505\loch\f1         \}
+\par \hich\af1\dbch\af31505\loch\f1    \hich\af1\dbch\af31505\loch\f1   finally
+\par \hich\af1\dbch\af31505\loch\f1     \{
+\par \hich\af1\dbch\af31505\loch\f1               System.out.println("finally");
+\par \hich\af1\dbch\af31505\loch\f1   
+\par \hich\af1\dbch\af31505\loch\f1       \}
+\par \}\}
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 runtime exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints exception1 and finally
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints exception1,exception2 and finally
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 28)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C \{
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String[] args) \{
+\par \hich\af1\dbch\af31505\loch\f1    char  c1=65;
+\par \hich\af1\dbch\af31505\loch\f1   switch(c1)\{
+\par \hich\af1\dbch\af31505\loch\f1        case 'A':                              
+\par \hich\af1\dbch\af31505\loch\f1                System.out.println("one");
+\par \hich\af1\dbch\af31505\loch\f1         default:                              
+\par \hich\af1\dbch\af31505\loch\f1                System.out.println("two");
+\par \hich\af1\dbch\af31505\loch\f1       case 'b':                               
+\par \hich\af1\dbch\af31505\loch\f1                System.out.println("three");
+\par \}\}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints one twot hree
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints two three
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Runtime exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 char i\hich\af1\dbch\af31505\loch\f1 s a legal value for switch clause
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 29)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class c1\{
+\par \hich\af1\dbch\af31505\loch\f1    void go()\{\}
+\par \}
+\par \hich\af1\dbch\af31505\loch\f1 class c2 extends c1
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1  String go()
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1   return null;
+\par \}
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 runtime exceptione
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 the code compiles and runs fine
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 30)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class base
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1 base(int c)
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1  System.out.println("base");
+\par \}
+\par \}
+\par \hich\af1\dbch\af31505\loch\f1 class Super extends base
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1  Super()
+\par \hich\af1\dbch\af31505\loch\f1  \{
+\par \hich\af1\dbch\af31505\loch\f1     System.out.println("super");
+\par \hich\af1\dbch\af31505\loch\f1   \}
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String [] a)
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1       base b1=new  Super();
+\par \}
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 runtime exceptione
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 the code compiles and runs fine
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 31)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class c2\{
+\par \hich\af1\dbch\af31505\loch\f1 final int i1;
+\par \hich\af1\dbch\af31505\loch\f1 c2()
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1 i1=i1+1;
+\par \}
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1 i1=2;
+\par \}
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String a[])
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1 c2 ob1=new c2();
+\par \hich\af1\dbch\af31505\loch\f1 System.out.println(ob1.i1);
+\par \}
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints 3
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 none of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 32)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C\{
+\par \hich\af1\dbch\af31505\loch\f1  public static void main(String a[])      \{
+\par \hich\af1\dbch\af31505\loch\f1   int i1=9;
+\par \hich\af1\dbch\af31505\loch\f1   int i2;
+\par \hich\af1\dbch\af31505\loch\f1     if(i1>3) \{         
+\par \hich\af1\dbch\af31505\loch\f1         i2=8;
+\par \hich\af1\dbch\af31505\loch\f1      \}
+\par \hich\af1\dbch\af31505\loch\f1    System.out.println(i2);
+\par \}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Runtim error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints 8
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints 0
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 since variable i1 is not final the value is not known at compiletime itself.so generate compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 33)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class A extends Thread \{
+\par \hich\af1\dbch\af31505\loch\f1 public void run() \{
+\par \hich\af1\dbch\af31505\loch\f1 System.out.print("A");
+\par \}
+\par \}
+\par \hich\af1\dbch\af31505\loch\f1 class B \{
+\par \hich\af1\dbch\af31505\loch\f1 public static void main (String[] args) \{
+\par \hich\af1\dbch\af31505\loch\f1 A a = new A();
+\par \hich\af1\dbch\af31505\loch\f1 a.start();
+\par \hich\af1\dbch\af31505\loch\f1 a.start();  // 1
+\par \}
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Runtime Exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 the code compile and runs fine
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 none of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 If the start method is invoked on a thread that is already running, then an IllegalThreadStateException will probably be thrown
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 34)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class c1
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1 static\{
+\par \hich\af1\dbch\af31505\loch\f1 System.out.println("static");
+\par \}
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String \hich\af1\dbch\af31505\loch\f1 a[])
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1 System.out.println("main");
+\par \}
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints static main
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints main
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints main static
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compiletime error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 none of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 35)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class A\{
+\par \hich\af1\dbch\af31505\loch\f1 static String m(float i) \{return "float";\}
+\par \hich\af1\dbch\af31505\loch\f1 static String m(double i) \{return "double";\}
+\par \hich\af1\dbch\af31505\loch\f1 public static void main (String[] args) \{
+\par \hich\af1\dbch\af31505\loch\f1 int a1 = 1; long b1 = 2;
+\par \hich\af1\dbch\af31505\loch\f1 System.out.print(m(a1)+","+ m(b1));
+\par \}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints float,foat
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints float,double
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints double,double
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 36)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 When a byte is added to a char, what is the type of the result?
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 byte
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 int
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 long
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 non of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 The result of all arithmetic performed with the binary operators (not the assignment opera\hich\af1\dbch\af31505\loch\f1 
+tors) is an int, a long, a float, or a double. Here byte and char are promoted to int, so the result is an int.
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 37)
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  class C extends Thread\{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String argv[])\{
+\par \hich\af1\dbch\af31505\loch\f1           C b = new C();
+\par \hich\af1\dbch\af31505\loch\f1           b.run();
+\par \hich\af1\dbch\af31505\loch\f1   \}
+\par \hich\af1\dbch\af31505\loch\f1   public void start()\{
+\par \hich\af1\dbch\af31505\loch\f1           for (int i = 0; i <10; i++)\{
+\par \hich\af1\dbch\af31505\loch\f1                   System.out.println("Value of i = " + i);
+\par \hich\af1\dbch\af31505\loch\f1           \}
+\par \hich\af1\dbch\af31505\loch\f1   \}
+\par 
+\par \}
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 runtime Exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints values from 0 to 9
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 4
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 38)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What is the signature of the run() method of the Runnable interface?
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 void run()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public void run(Runnable target)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public void run()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public static void run()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 3
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 39)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 cla\hich\af1\dbch\af31505\loch\f1 ss C\{
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String args[]) \{
+\par \hich\af1\dbch\af31505\loch\f1 int a = 1;
+\par \hich\af1\dbch\af31505\loch\f1 a += ++a + a++;
+\par \hich\af1\dbch\af31505\loch\f1 System.out.print(a);
+\par \}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Runtime Exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints 5
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints 4
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 3
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 40)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 interface I \{\hich\af1\dbch\af31505\loch\f1            //1
+\par \hich\af1\dbch\af31505\loch\f1   public class Inner \{   ///2
+\par \hich\af1\dbch\af31505\loch\f1           
+\par \hich\af1\dbch\af31505\loch\f1           Inner ( ) \{
+\par \hich\af1\dbch\af31505\loch\f1                   System .out . println ( "Inner Created" ) ;
+\par \hich\af1\dbch\af31505\loch\f1           \}
+\par \hich\af1\dbch\af31505\loch\f1   \};
+\par \}\hich\af1\dbch\af31505\loch\f1 ;
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at line 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at line 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 the code compiles fine
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 none of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 3
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 41)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 abstract class C1\{
+\par \hich\af1\dbch\af31505\loch\f1 public void m1()\{        //1
+\par \}\}
+\par \hich\af1\dbch\af31505\loch\f1 abstract class C2\{
+\par \hich\af1\dbch\af31505\loch\f1  public void m2()\{      //2
+\par \}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at line1   
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at line2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 The code compiles fine
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 since the class C2 is abstract it can contain abstract methods
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 3
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 42)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 interface I\{
+\par \hich\af1\dbch\af31505\loch\f1 void f1();              // 1
+\par \hich\af1\dbch\af31505\loch\f1 public void f2();       // 2
+\par \hich\af1\dbch\af31505\loch\f1 protected void f3();    // 3
+\par \hich\af1\dbch\af31505\loch\f1 private void f4(); \hich\af1\dbch\af31505\loch\f1      // 4
+\par \hich\af1\dbch\af31505\loch\f1 abstract void f5();     // 5
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 line  1,2,3,4
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 line  3,4
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 line  3
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 line  2,3,4
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 line  3,4,5
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 all methods declared within an interface are implicitly public, a weaker access level can not be declared
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 43)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 abstract class vehi\hich\af1\dbch\af31505\loch\f1 cle\{
+\par \hich\af1\dbch\af31505\loch\f1 abstract public void speed();
+\par \}
+\par \hich\af1\dbch\af31505\loch\f1 class car extends vehicle\{
+\par \hich\af1\dbch\af31505\loch\f1 public static void main (String args[]) \{
+\par \hich\af1\dbch\af31505\loch\f1 vehicle ob1;        
+\par \hich\af1\dbch\af31505\loch\f1 ob1=new car();   //1
+\par 
+\par \}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compiletime error at line  1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 forces the class car to be declared as abstract
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Runtime Exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 44)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class command \{
+\par \hich\af1\dbch\af31505\loch\f1 public static void main (String[] a1) \{
+\par \hich\af1\dbch\af31505\loch\f1 System.out.println(a1.length());         //1
+\par \hich\af1\dbch\af31505\loch\f1 System.out.println(a1[0]);               //2
+\par \hich\af1\dbch\af31505\loch\f1 System.out.println(a1);                \hich\af1\dbch\af31505\loch\f1   //3
+\par \hich\af1\dbch\af31505\loch\f1         //2
+\par \}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at line1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at line2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at line3
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Runtime exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 length is not a method. it's a variable
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 45)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 abstract class A \{\}   // 1
+\par \hich\af1\dbch\af31505\loch\f1 transient class B \{\}  // 2
+\par \hich\af1\dbch\af31505\loch\f1 private class C \{\}    // 3
+\par \hich\af1\dbch\af31505\loch\f1 static class D \{\}     // 4
+\par \hich\af1\dbch\af31505\loch\f1 Which of these declarations will not produce a compile-time error?
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 3
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 4
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 The modifiers, private and static, can be applied to a nested class, but can not be applied to a class that is not nested transient is allowed only for variables.
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 46)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class c1
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1 public void m1(Object o1)
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1   System.out.println("object");
+\par \}
+\par \hich\af1\dbch\af31505\loch\f1 public\hich\af1\dbch\af31505\loch\f1  void m1(String o1)
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1     System.out.println("string");
+\par \}
+\par \hich\af1\dbch\af31505\loch\f1 public int m1(int c)
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1     return c;
+\par \}
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String a[])
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1    c1 ob1=new c1();
+\par \hich\af1\dbch\af31505\loch\f1    ob1.m1("hai");
+\par \hich\af1\dbch\af31505\loch\f1    
+\par \hich\af1\dbch\af31505\loch\f1            
+\par \}
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 print object
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints string
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 non of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 47)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public static double sin(double angle)
+\par \hich\af1\dbch\af31505\loch\f1 What are the units of the "angle" argument?
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Degrees
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Radians
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Both 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 48)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class base
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1 base()
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1  System.out.println("base");
+\par \}
+\par \hich\af1\dbch\af31505\loch\f1 base(int i1)
+\par \{
+\par \}
+\par \}
+\par \hich\af1\dbch\af31505\loch\f1 class Super extends base
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1  Super()
+\par \hich\af1\dbch\af31505\loch\f1  \{
+\par \hich\af1\dbch\af31505\loch\f1      System.out.println("super");
+\par \hich\af1\dbch\af31505\loch\f1       super(1);
+\par \hich\af1\dbch\af31505\loch\f1     
+\par \hich\af1\dbch\af31505\loch\f1   \}
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String [] a)
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1       base b1=new  Super();
+\par \}
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints base and super
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints super and base
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 none of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 49)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 The Throwable class is the superclass of all exceptions in the Java language.
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 true
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 false
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 50)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C \{
+\par \hich\af1\dbch\af31505\loch\f1   private String get ( String str ) \{
+\par \hich\af1\dbch\af31505\loch\f1           try
+\par \hich\af1\dbch\af31505\loch\f1           \{
+\par \hich\af1\dbch\af31505\loch\f1                   throw new Exception ( ) ;
+\par \hich\af1\dbch\af31505\loch\f1                   return str ;
+\par \hich\af1\dbch\af31505\loch\f1           \}
+\par \hich\af1\dbch\af31505\loch\f1           catch ( Exception e )
+\par \hich\af1\dbch\af31505\loch\f1           \{
+\par \hich\af1\dbch\af31505\loch\f1             \hich\af1\dbch\af31505\loch\f1       return null ;
+\par \hich\af1\dbch\af31505\loch\f1           \}
+\par \hich\af1\dbch\af31505\loch\f1   \}
+\par \hich\af1\dbch\af31505\loch\f1   public static void main ( String peace [ ] ) \{
+\par \hich\af1\dbch\af31505\loch\f1           try
+\par \hich\af1\dbch\af31505\loch\f1           \{
+\par \hich\af1\dbch\af31505\loch\f1                   System.out.println ( ( new C ( ) ).get ( " C " ) ) ;
+\par \hich\af1\dbch\af31505\loch\f1           \}
+\par \hich\af1\dbch\af31505\loch\f1           catch ( Exception e )
+\par \hich\af1\dbch\af31505\loch\f1           \{
+\par \hich\af1\dbch\af31505\loch\f1                   \hich\af1\dbch\af31505\loch\f1 System.out.println( "Exception" ) ;
+\par \hich\af1\dbch\af31505\loch\f1           \}
+\par \hich\af1\dbch\af31505\loch\f1   \}
+\par \}\hich\af1\dbch\af31505\loch\f1 ;
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints Exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 the code compiles and runs fine
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 none of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 51)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Which of the \hich\af1\dbch\af31505\loch\f1 following methods are static members of the Thread class?
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 join
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 run
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 sleep
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 start
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 wait
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 3
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 52)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C \{
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String[] args) \{
+\par \hich\af1\dbch\af31505\loch\f1   try
+\par \hich\af1\dbch\af31505\loch\f1     \{
+\par \hich\af1\dbch\af31505\loch\f1         int i1=3/0;
+\par \hich\af1\dbch\af31505\loch\f1       \}
+\par \hich\af1\dbch\af31505\loch\f1        System.out.println("hai");
+\par \hich\af1\dbch\af31505\loch\f1     catch(NullpointerException e)
+\par \hich\af1\dbch\af31505\loch\f1     \{
+\par \hich\af1\dbch\af31505\loch\f1         \}
+\par \hich\af1\dbch\af31505\loch\f1      finally
+\par \hich\af1\dbch\af31505\loch\f1     \{
+\par \hich\af1\dbch\af31505\loch\f1               System.out.println("finally);
+\par \hich\af1\dbch\af31505\loch\f1   
+\par \hich\af1\dbch\af31505\loch\f1       \}
+\par \}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time errors
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 print hai and finally
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 the code compiles and runs fine
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 none of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 53)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class c1
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String a[])
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1     System.out.println(Double.NaN==Double.NaN);
+\par \hich\af1\dbch\af31505\loch\f1     System.out.println(Double.NaN!=Double.NaN);
+\par \hich\af1\dbch\af31505\loch\f1     System.out.println(Float.NaN==Double\hich\af1\dbch\af31505\loch\f1 .NaN);
+\par \}
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints false true false
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 print true false true
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints true true true
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints false false false
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compiletime error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 54)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C \{
+\par \hich\af1\dbch\af31505\loch\f1   public static void main ( String ka [ ] ) \{
+\par \hich\af1\dbch\af31505\loch\f1           Thread t = Thread . currentThread ( ) ;
+\par \hich\af1\dbch\af31505\loch\f1           t . setPriority ( - 1 ) ;
+\par \hich\af1\dbch\af31505\loch\f1           System . out . println ( " Done ! " ) ;
+\par \hich\af1\dbch\af31505\loch\f1   \}
+\par \}\hich\af1\dbch\af31505\loch\f1 ;
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Runtime Exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 The code compiles and runs fine
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 55)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class c1
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1    public void m1()
+\par \hich\af1\dbch\af31505\loch\f1     \{
+\par \hich\af1\dbch\af31505\loch\f1        System.out.println("m1 method in C1 class");
+\par \hich\af1\dbch\af31505\loch\f1      \}
+\par \}
+\par \hich\af1\dbch\af31505\loch\f1 class c2
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1   public c1 m1()
+\par \hich\af1\dbch\af31505\loch\f1    \{
+\par \hich\af1\dbch\af31505\loch\f1      return new c1()\{
+\par \hich\af1\dbch\af31505\loch\f1        public void m1()
+\par \hich\af1\dbch\af31505\loch\f1           \{
+\par \hich\af1\dbch\af31505\loch\f1               System.out.println("m1 mehod in anonymous class");
+\par \hich\af1\dbch\af31505\loch\f1     \}\};\}
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String a[])
+\par \hich\af1\dbch\af31505\loch\f1  \{
+\par \hich\af1\dbch\af31505\loch\f1                
+\par \hich\af1\dbch\af31505\loch\f1  c1 ob1 =new c2().m1();
+\par \hich\af1\dbch\af31505\loch\f1         ob1.m1();
+\par \}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints m1 method in C1 class
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints m1 method in anonumous class
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time \hich\af1\dbch\af31505\loch\f1 error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Runtime error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 none of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 the anonymous class overrides the m1 method in c1.so according to the dynamic dispatch the m1 method in the anonymous is called
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 56)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class c1 extends Exception
+\par \{\}
+\par \hich\af1\dbch\af31505\loch\f1 class c2
+\par \{
+\par \hich\af1\dbch\af31505\loch\f1    static void m1()
+\par \hich\af1\dbch\af31505\loch\f1     \{
+\par \hich\af1\dbch\af31505\loch\f1        throw new c1();
+\par \hich\af1\dbch\af31505\loch\f1      \}
+\par \hich\af1\dbch\af31505\loch\f1   public static void main(String a[])
+\par \hich\af1\dbch\af31505\loch\f1    \{
+\par \hich\af1\dbch\af31505\loch\f1           
+\par \hich\af1\dbch\af31505\loch\f1     \}
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Runtime Exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 The code compiles and runs fine
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 57)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C \{
+\par \hich\af1\dbch\af31505\loch\f1 static void m1(Object x) \{System.out.print("Object");\}
+\par \hich\af1\dbch\af31505\loch\f1 static void m1(String x) \{System.out.print("String");\}
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String[] args) \{
+\par \hich\af1\dbch\af31505\loch\f1 m1(null);
+\par \}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints Object
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints String
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compiletime error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 The more \hich\af1\dbch\af31505\loch\f1 specific of the two, m(String x), is chosen 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 58)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 all classes of the java.lang package are automatically imported
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 true
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 false
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 59)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 The constructor for the Math class is private, so it cannot be instaniated
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 true
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 false
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 60)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C \{
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String[] args) \{
+\par \hich\af1\dbch\af31505\loch\f1  int x=2;
+\par \hich\af1\dbch\af31505\loch\f1  int y=3;
+\par \hich\af1\dbch\af31505\loch\f1    if((y==x++)|(x<++y))\{\hich\af1\dbch\af31505\loch\f1                      
+\par \hich\af1\dbch\af31505\loch\f1          System.out.println(x+""+y);
+\par \hich\af1\dbch\af31505\loch\f1         \}
+\par \}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints  34
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints  33
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Runtime exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 61)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 interface I\{
+\par \hich\af1\dbch\af31505\loch\f1 final class C1   \{     //1   
+\par \hich\af1\dbch\af31505\loch\f1     static int i=9;;  //2
+\par \hich\af1\dbch\af31505\loch\f1  \}
+\par \}
+\par \hich\af1\dbch\af31505\loch\f1 class C2 implements I\{
+\par \hich\af1\dbch\af31505\loch\f1  public static void main(String a[])\{
+\par \hich\af1\dbch\af31505\loch\f1     System.out.println(I.C1.i);  ///3
+\par \}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at line 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at line 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error at line 3
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints 9
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Runtime exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ex\hich\af1\dbch\af31505\loch\f1 planation:
+\par \hich\af1\dbch\af31505\loch\f1 interfaces classes are by default static,final. so,no compile time errors are genearated
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 4
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 62)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C\{
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String[] args) \{
+\par \hich\af1\dbch\af31505\loch\f1   try
+\par \hich\af1\dbch\af31505\loch\f1     \{
+\par \hich\af1\dbch\af31505\loch\f1         try
+\par \hich\af1\dbch\af31505\loch\f1            \{
+\par \hich\af1\dbch\af31505\loch\f1                try
+\par \hich\af1\dbch\af31505\loch\f1                  \{
+\par \hich\af1\dbch\af31505\loch\f1                    \}
+\par \hich\af1\dbch\af31505\loch\f1                  catch(RuntimeException e)
+\par \hich\af1\dbch\af31505\loch\f1                  \{
+\par \hich\af1\dbch\af31505\loch\f1                   \}
+\par \hich\af1\dbch\af31505\loch\f1              \}
+\par \hich\af1\dbch\af31505\loch\f1            catch(Exception e)
+\par \hich\af1\dbch\af31505\loch\f1            \{
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par \hich\af1\dbch\af31505\loch\f1               
+\par \hich\af1\dbch\af31505\loch\f1       \}
+\par \hich\af1\dbch\af31505\loch\f1     catch(NullPointerException e)
+\par \hich\af1\dbch\af31505\loch\f1     \{
+\par \hich\af1\dbch\af31505\loch\f1         \}
+\par \hich\af1\dbch\af31505\loch\f1      fin\hich\af1\dbch\af31505\loch\f1 ally
+\par \hich\af1\dbch\af31505\loch\f1     \{
+\par \hich\af1\dbch\af31505\loch\f1               System.out.println("finally");
+\par \hich\af1\dbch\af31505\loch\f1   
+\par \hich\af1\dbch\af31505\loch\f1       \}
+\par \}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints finally
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Runtime Exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 63)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C \{
+\par \hich\af1\dbch\af31505\loch\f1   public static void main ( String ka [ ] ) \{
+\par \hich\af1\dbch\af31505\loch\f1           while ( false ) \{
+\par \hich\af1\dbch\af31505\loch\f1                   System.out.println ( "Value" ) ;
+\par \hich\af1\dbch\af31505\loch\f1           \}
+\par \hich\af1\dbch\af31505\loch\f1   \}
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints Value infinitely
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Runtime Exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 64)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C \{
+\par \hich\af1\dbch\af31505\loch\f1 public static void main(String[] args) \{
+\par \hich\af1\dbch\af31505\loch\f1   System.out.println(4+5+"String");
+\par \}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints 9string
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints 45string
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Runtime exception
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 arguments to the method are evalutated from left to right so 4+5+"string" ==> 9+string==>9string
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 65)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class H \{
+\par \hich\af1\dbch\af31505\loch\f1   public static void main (String[] args) \{
+\par \hich\af1\dbch\af31505\loch\f1     String s1 = "HHH";
+\par \hich\af1\dbch\af31505\loch\f1     StringBuffer sb2 = new StringBuffer(s1);
+\par \hich\af1\dbch\af31505\loch\f1     System.out.print(sb\hich\af1\dbch\af31505\loch\f1 2.equals(s1) + "," + s1.equals(sb2));
+\par \}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints: false,false
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints: true,false
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints: false,true
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints: true,true
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 s1 and sb2 are pointing to different object references
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 66)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 The relationship between a class and its superclass is 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 has-a
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 is -a
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 67)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class A extends Thread \{
+\par \hich\af1\dbch\af31505\loch\f1   private int i;
+\par \hich\af1\dbch\af31505\loch\f1   public void run() \{i = 1;\}
+\par \hich\af1\dbch\af31505\loch\f1   public static void main(String[] args) \{
+\par \hich\af1\dbch\af31505\loch\f1     A a = new A();
+\par \hich\af1\dbch\af31505\loch\f1     a.run();
+\par \hich\af1\dbch\af31505\loch\f1     System.out.print(a.i);
+\par \}\}
+\par \hich\af1\dbch\af31505\loch\f1 How many threads are created in this Program?
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 3
+\par 
+\par 0
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 Main thread is a thread and calling run methods will not creat thread.
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 68)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 String objects once created can not be modified 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 true
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 false
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 69)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Which of the following modifiers can be applied to a class that is not a nested class?
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 protected
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 private
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 static
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 70)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 if(0.0 == -0.0) \{
+\par \hich\af1\dbch\af31505\loch\f1   System.out.println("true");
+\par \}
+\par \hich\af1\dbch\af31505\loch\f1 else\{
+\par \hich\af1\dbch\af31505\loch\f1     System.out.println("false");
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints false
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 prints true
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 71)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class C \{
+\par \hich\af1\dbch\af31505\loch\f1 pub\hich\af1\dbch\af31505\loch\f1 lic static void main(String[] args) \{
+\par \hich\af1\dbch\af31505\loch\f1 double d1 = Math.floor(0.5);
+\par \hich\af1\dbch\af31505\loch\f1 double d2 = Math.floor(1.5);
+\par \hich\af1\dbch\af31505\loch\f1 System.out.print(d1 + "," + d2);
+\par \}\}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints: 0.0,1.0
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints: 0.0,2.0
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints: 1.0,1.0
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Prints: 1.0,2.0
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 None of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 72)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 System.out.println("String".substring(0,4));
+\par \hich\af1\dbch\af31505\loch\f1 This statement will Print
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 will print "Strin" 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 will print "Stri" 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 will cause compiler error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 none of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 73)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 if("String".replace('t','T') == "String".replace('t','T'))
+\par \hich\af1\dbch\af31505\loch\f1 System.out.println("Equal");
+\par \hich\af1\dbch\af31505\loch\f1 else
+\par \hich\af1\dbch\af31505\loch\f1 System.out.println("Not Equal");
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 will Print Equal
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 will Print Not Equal
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 none of the above
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 74)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Which of the following classes  will not allow unsynchronized read operations by multiple threads?
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Vector
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 TreeMap
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 TreeSet
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 HashMap
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 HashSet
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation Available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 75)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 StringBuffer objects once created can not be modified 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 true
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 false
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Explanation:
+\par \hich\af1\dbch\af31505\loch\f1 No Explanation available
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Ans: 2
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What will happen when you attempt to compile and run the following code? (Assume that the code is compiled and run with assertions enabled.)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public class AssertTest
+\par 
+\par \hich\af1\dbch\af31505\loch\f1    \{ 
+\par \hich\af1\dbch\af31505\loch\f1        public void methodA(int i)
+\par \hich\af1\dbch\af31505\loch\f1        \{ 
+\par \hich\af1\dbch\af31505\loch\f1              assert i >= 0 : methodB();
+\par \hich\af1\dbch\af31505\loch\f1              System.out.println(i); 
+\par \hich\af1\dbch\af31505\loch\f1        \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1        public void methodB() 
+\par \hich\af1\dbch\af31505\loch\f1        \{ 
+\par \hich\af1\dbch\af31505\loch\f1              System.out.println("The value must not be negative"); 
+\par \hich\af1\dbch\af31505\loch\f1        \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1       p\hich\af1\dbch\af31505\loch\f1 ublic static void main(String args[]) 
+\par \hich\af1\dbch\af31505\loch\f1       \{ 
+\par \hich\af1\dbch\af31505\loch\f1               AssertTest test = new AssertTest(); 
+\par \hich\af1\dbch\af31505\loch\f1               test.methodA(-10); 
+\par \hich\af1\dbch\af31505\loch\f1        \} 
+\par \hich\af1\dbch\af31505\loch\f1    \} 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1   It will print -10
+\par \hich\af1\dbch\af31505\loch\f1   It will result in Assertion Error showing the message -"The value must not be negative".
+\par \hich\af1\dbch\af31505\loch\f1   The code will not compile.
+\par \hich\af1\dbch\af31505\loch\f1   None of these
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What will happen when you attempt to compile and run the following code?
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public class Static
+\par \{\hich\af1\dbch\af31505\loch\f1  
+\par \hich\af1\dbch\af31505\loch\f1       static 
+\par \hich\af1\dbch\af31505\loch\f1       \{\hich\af1\dbch\af31505\loch\f1  
+\par \hich\af1\dbch\af31505\loch\f1             int x = 5; 
+\par \hich\af1\dbch\af31505\loch\f1       \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1       static int x,y; 
+\par \hich\af1\dbch\af31505\loch\f1       public static void main(String args[]) 
+\par \hich\af1\dbch\af31505\loch\f1       \{ 
+\par \hich\af1\dbch\af31505\loch\f1             x--; myMethod(); 
+\par \hich\af1\dbch\af31505\loch\f1             System.out.println(x + y + ++x); 
+\par \hich\af1\dbch\af31505\loch\f1       \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1       public static void myMethod() 
+\par \hich\af1\dbch\af31505\loch\f1       \{ 
+\par \hich\af1\dbch\af31505\loch\f1              y = x++ + ++x; 
+\par \hich\af1\dbch\af31505\loch\f1       \}
+\par \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1          
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  \tab   Compile time error\tab   prints : 1
+\par \hich\af1\dbch\af31505\loch\f1  \tab   prints : 2\tab   prints : 3
+\par \hich\af1\dbch\af31505\loch\f1  \tab   prints : 7\tab   prints : 8
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Given the following code, what will be the output?
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class Value
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             public int i = 15;
+\par 
+\par \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public \hich\af1\dbch\af31505\loch\f1 class Test
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             public static void main(String argv[])
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         Test t = new Test();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         t.first();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             public void first()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         int i = 5;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                             Value v = new Value();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         v.i = 25;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         second(v, i);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         System.out.println(v.i);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             public void secon\hich\af1\dbch\af31505\loch\f1 d(Value v, int i)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         i = 0;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                             v.i = 20;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         Value val = new Value();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                             v =  val;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                 System.out.println(v.i + " " + i);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  15 0\tab  20 0
+\par \hich\af1\dbch\af31505\loch\f1  15\tab  0 15
+\par \hich\af1\dbch\af31505\loch\f1  20\tab  20
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What will happen when you attempt to compile and run the following code?
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class MyParent
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             int x, y;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             MyParent(int x, int y)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         this.x = x;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         this.y = y;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             public int addMe(int x, int y)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         return this.x + x + y + this.y;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             public int addMe(MyParent myPar)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         return addMe(myPar.x, myPar.y);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class MyChild extends MyParent
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             int z;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             MyChild (int x, int y, int z)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         super(x,y);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         this.z = z;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             public int addMe(int x, int y, int z)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         return this.x + x + this.y + y + this.z + z;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  \hich\af1\dbch\af31505\loch\f1            public int addMe(MyChild myChi)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         return addMe(myChi.x, myChi.y, myChi.z);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             public int addMe(int x, int y)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         return this.x + x + this.y + y;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public class MySomeOne
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             public static void main(String args[])
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         MyChild myChi = new MyChild(10, 20, 30);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         MyParent myPar = new MyParent(10, 20);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1               \hich\af1\dbch\af31505\loch\f1           int x = myChi.addMe(10, 20, 30);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         int y = myChi.addMe(myChi);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         int z = myPar.addMe(myPar);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         System.out.println(x + y + z);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \}
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1   300\tab   240
+\par \hich\af1\dbch\af31505\loch\f1   120\tab   180
+\par \hich\af1\dbch\af31505\loch\f1   Compilation Error\tab   None of the above
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 The class AssertionError has "is - a" relationship with these classes:
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1   RuntimeException
+\par \hich\af1\dbch\af31505\loch\f1   Error
+\par \hich\af1\dbch\af31505\loch\f1   VirtualMachineError\tab 
+\par \hich\af1\dbch\af31505\loch\f1   IllegalAccessException\tab 
+\par \hich\af1\dbch\af31505\loch\f1   Throwable\tab 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What will be the result of executing the following code?
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 1.    boolean a = true;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 2.    boolean b = false;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 3.    boolean c = true;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 4.    if (a == true)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 5.    if (b == true)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 6.    if (c == true)                      System.out.println("Some things are \hich\af1\dbch\af31505\loch\f1 true in this world");
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 7.    else                               System.out.println("Nothing is true in this world!");
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 8.    else if (a && (b = c))              System.out.println("It's too confusing to tell what is true and what is false");
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 9.    else   \hich\af1\dbch\af31505\loch\f1                              System.out.println("Hey this won't compile");
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1   The code won't compile
+\par \hich\af1\dbch\af31505\loch\f1   "Some things are true in this world" will be printed
+\par \hich\af1\dbch\af31505\loch\f1   "Hey this won't compile" will be printed
+\par \hich\af1\dbch\af31505\loch\f1   None of these
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What will happen when you attempt to compile and run the following code?
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 interface MyInterface
+\par 
+\par \{
+\par 
+\par \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public class MyInstanceTest implements MyInterface
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             static String s;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             public static void main(String args[])
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  \hich\af1\dbch\af31505\loch\f1                        MyInstanceTest t = new MyInstanceTest();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         if(t instanceof MyInterface)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                     System.out.println("I am true interface");
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         else
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                     System.out.println("I am false interface");
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         if(s instanceof String)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                \hich\af1\dbch\af31505\loch\f1                      System.out.println("I am true String");
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         else
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                     System.out.println("I am false String");
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1      \hich\af1\dbch\af31505\loch\f1        \}         
+\par 
+\par \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1   Compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1   Runtime error
+\par \hich\af1\dbch\af31505\loch\f1   Prints : "I am true interface" followed by " I am true String"
+\par \hich\af1\dbch\af31505\loch\f1   Prints : "I am false interface" followed by " I am false String"
+\par \hich\af1\dbch\af31505\loch\f1   Prints : "I am true interface" followed by " I am false String"
+\par \hich\af1\dbch\af31505\loch\f1   Prints : "I am false interface" followed by " I am true String"
+\par 
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 www.INE.com/CCNA
+\par \hich\af1\dbch\af31505\loch\f1 What results from attempting to compile and run the following code?
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public class Ternary
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1          \hich\af1\dbch\af31505\loch\f1    public static void main(String args[])
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         int a = 5;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         System.out.println("Value is - " + ((a < 5) ? 9.9 : 9));
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \}
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1   Prints: Value is - 9
+\par \hich\af1\dbch\af31505\loch\f1   Prints: Value is - 5
+\par \hich\af1\dbch\af31505\loch\f1   Compilation error
+\par \hich\af1\dbch\af31505\loch\f1   None of these
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 n the following pieces of code, A and D will compile without any error. True/False?
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 A: StringBuffer sb1 = "abcd";
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 B: Boolean b = new Boolean("abcd");
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 C: byte b = 255;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 D: int x = 0x1234;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 E: float fl = 1.2;
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Considering the following code, which variables may be referenced correctly at line 12?
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1          public class Outer
+\par 
+\par \hich\af1\dbch\af31505\loch\f1          \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                      public int a = 1;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                      private int b = 2;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                      public void method\hich\af1\dbch\af31505\loch\f1 (final int c)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                      \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                  int d = 3;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                  class Inner
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                  \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                            private void iMethod(int e)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                           \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                            \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                    \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1       \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1   a\tab   b
+\par \hich\af1\dbch\af31505\loch\f1   c\tab   d
+\par \hich\af1\dbch\af31505\loch\f1   e\tab 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What will be the result of executing the following code?
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public st\hich\af1\dbch\af31505\loch\f1 atic void main(String args[])
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             char digit = 'a';
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             for (int i = 0; i < 10; i++)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         switch (digit)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                     case 'x' :
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                     \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                                 int j = 0;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                                             System.out.println(j);                
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                     \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                   \hich\af1\dbch\af31505\loch\f1                   default :
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                     \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                                 int j = 100;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                                             System.out.println(j);                
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                     \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1            
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             int i = j;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                System.out.println(i);    
+\par 
+\par \}\hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1   100 will be printed 11 times.\tab   100 will be printed 10 times and then there will be a run\hich\af1\dbch\af31505\loch\f1 time exception.
+\par \hich\af1\dbch\af31505\loch\f1   The code will not compile because the variable i cannot be declared twice within the main() method.\tab   The code will not compile because the variable j cannot be declared twice within the switch statement.
+\par \hich\af1\dbch\af31505\loch\f1   None of these.\tab 
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Which of the\hich\af1\dbch\af31505\loch\f1  following collection classes from java.util package are Thread safe?
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1   Vector\tab   ArrayList
+\par \hich\af1\dbch\af31505\loch\f1   HashMap\tab   Hashtable
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What will happen when you attempt to compile and run the following code?
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class MyThread extends Thread
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             public void run()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         System.out.println("MyThread: run()");
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             public void start()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         System.out.println("MyThread: start()");
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class MyRunnable implements Runnable
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             public void run()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         System.out.println("MyRunnable: run()");
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             public void start()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         System.out.prin\hich\af1\dbch\af31505\loch\f1 tln("MyRunnable: start()");
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public class MyTest
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             public static void main(String args[])
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         MyThread myThread  =  new MyThread();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         MyRunnable myRunnable = new MyRunnable();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         Thread thread  =  new Thread(myRunnable);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         myThread.start();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         thread.start();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \}
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1   Prints : MyThrea\hich\af1\dbch\af31505\loch\f1 d: start() followed by MyRunnable:run()\tab   Prints : MyThread: run() followed by MyRunnable:start()
+\par \hich\af1\dbch\af31505\loch\f1   Prints : MyThread: start() followed by MyRunnable:start()\tab   Prints : MyThread: run() followed by MyRunnable:run()
+\par \hich\af1\dbch\af31505\loch\f1   Compile time error\tab   None of the above
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What will be the result of executing the following code?
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 // Filename; SuperclassX.java
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 package packageX;
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public class SuperclassX
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             protected void superclassMethodX()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             int superclassVarX;
+\par 
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 // Filename SubclassY.java
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 1.            package packageX.packageY;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 2.        
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 3.         public class SubclassY extends SuperclassX
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 4.         \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 5.                     SuperclassX objX = new SubclassY();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 6.                     SubclassY objY = new SubclassY();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 7.                     void subclassMethodY()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 8.                     \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 9.                                 objY.superclassMethodX();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 10.                               int i;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 11.                  \hich\af1\dbch\af31505\loch\f1              i = objY.superclassVarX;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 12.                   \}         
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 13.       \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1   Compilation error at line 5\tab   Compilation error at line 9
+\par \hich\af1\dbch\af31505\loch\f1   Runtime exception at line 11\tab   None of these
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Consider the class hierarchy shown below:
+\par \hich\af1\dbch\af31505\loch\f1  
+\par \hich\af1\dbch\af31505\loch\f1  -------------------------------------------------------------------- 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class FourWheeler implements DrivingUtilities
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class Car extends FourWheeler
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class Truck extends FourWheeler
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class Bus extends FourWheeler
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class Crane extends FourWheeler
+\par 
+\par ----------------------------------------------------------------------
+\par \hich\af1\dbch\af31505\loch\f1     
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Consider the following code below:
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 1.            DrivingUtilities du;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 2.            FourWheeler fw;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 3.         Truck myTruck = new Truck();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 4.         du = (DrivingUtilities)myTruck;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 5.         fw = new Crane();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 6.         fw = du;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Which of the statements below are true?
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1   Line 4 will not compile because an interface cannot refer to an object.\tab   The code will compile and run.
+\par \hich\af1\dbch\af31505\loch\f1   The code will not compile without an explicit cast at line 6, because going down the hierarchy without casting is not allowed.\tab   The code at line 4 will compile even without the explicit cast.
+\par \hich\af1\dbch\af31505\loch\f1   The code will compile if we put an explicit cast at line 6 \hich\af1\dbch\af31505\loch\f1 but will throw an exception at runtime.\tab 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What results from the following code?
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 1.         class MyClass
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 2.         \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 3.                     void myMethod(int i) \{System.out.println("int version");\}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 4.                     void myMethod(String s) \{Syst\hich\af1\dbch\af31505\loch\f1 em.out.println("String version");\}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 5.                     public static void main(String args[])
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 6.                     \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 7.                                 MyClass obj = new MyClass();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 8.                                 char ch = 'c';
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 9.                                 obj.myMethod(ch);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 10.                   \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 11.       \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1   Line 4 will not compile as void methods can't be overridden.
+\par \hich\af1\dbch\af31505\loch\f1   An exception at line 9
+\par \hich\af1\dbch\af31505\loch\f1   Line 9 will not compile as there is no version of myMethod, which takes\hich\af1\dbch\af31505\loch\f1  a char as argument.
+\par \hich\af1\dbch\af31505\loch\f1   The code compiles and produces output: int version.
+\par \hich\af1\dbch\af31505\loch\f1   The code compiles and produces output: String version.
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What is the result when you compile and run the following code?
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public class ThrowsDemo
+\par 
+\par \{\hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             static void t\hich\af1\dbch\af31505\loch\f1 hrowMethod()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{ 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                           System.out.println("Inside throwMethod."); 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                           throw new IllegalAccessException("demo"); 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             public static void main(String args[])
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{ 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                        try
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         \{ 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                     throwMethod(); 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         catch (IllegalAccessException e)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         \{ 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                  \hich\af1\dbch\af31505\loch\f1    System.out.println("Caught " + e); 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                        \} 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \} 
+\par 
+\par \}\hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1   Compilation error\tab   Runtime error
+\par \hich\af1\dbch\af31505\loch\f1   Compile successfully, nothing is printed.\tab   Inside throwMethod. followed by caught: java.lang.IllegalAccessExcption: demo
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What will be printed when you execute the following code?
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class X
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             Y b = new Y();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             X()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         System.out.print("X");
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class Y
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             Y()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         System.out.print("Y");
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public class Z extends X
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             Y y = new Y();
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             Z()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         System.out.print("Z");
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             public static void main(String[] args)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                             new Z();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1   Z
+\par \hich\af1\dbch\af31505\loch\f1   YZ
+\par \hich\af1\dbch\af31505\loch\f1   XYZ
+\par \hich\af1\dbch\af31505\loch\f1   YXYZ
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What will happen when you attempt to compile and run the following code snippet?
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             Boolean b = \hich\af1\dbch\af31505\loch\f1 new Boolean("TRUE");
+\par 
+\par \hich\af1\dbch\af31505\loch\f1            
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             if(b.booleanValue())
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         System.out.println("Yes : " + b);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             else
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         System.out.println("No : " + b);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1   The code will not compile.
+\par \hich\af1\dbch\af31505\loch\f1   It will print - Yes : true
+\par \hich\af1\dbch\af31505\loch\f1   It will print - Yes : TRUE
+\par \hich\af1\dbch\af31505\loch\f1   It will print - No : false
+\par \hich\af1\dbch\af31505\loch\f1   It will print - No : FALSE
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What is the result when you compile and run the following code?
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public class Test
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             public void method()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         for(int i = 0; i < 3; i++)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                     System.out.print(i);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         System.out.print(i)\hich\af1\dbch\af31505\loch\f1 ;
+\par 
+\par \}
+\par 
+\par \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1   0122
+\par \hich\af1\dbch\af31505\loch\f1   0123
+\par \hich\af1\dbch\af31505\loch\f1   Compilation error
+\par \hich\af1\dbch\af31505\loch\f1   None of these
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What will happen when you attempt to compile and run the following code?
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 int Output = 10;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 boolean b1 = false;
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 if((b1 == true) && ((Output += 10) == 20))
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1     System.out.println("We are equal " + Output);
+\par 
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 else
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1     System.out.println("Not equal! " + Output);
+\par 
+\par \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1   Compilation error, attempting to perform binary comparison on logical data type.
+\par \hich\af1\dbch\af31505\loch\f1   Compilation and output of "We are equal 10".
+\par \hich\af1\dbch\af31505\loch\f1   Compilation and output of "Not equal! 20".
+\par \hich\af1\dbch\af31505\loch\f1   Compilation and output of "Not equal! 10".
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What will be the result of executing the following code?
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Given that Test1 is a class.
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 1. Test1[] t1 = new Test1[10];
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 2. Test1[][] t2 = new Test1[5][];
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 3. \hich\af1\dbch\af31505\loch\f1 if (t1[0] == null)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 4. \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 5.         t2[0] = new Test1[10] 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 6.         t2[1] = new Test1[10] 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 7.         t2[2] = new Test1[10] 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 8.         t2[3] = new Test1[10] 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 9.         t2[4] = new Test1[10] 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 10. \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 11. System.out.println(t1[0]);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 12. System.out.println(t2[1][0]);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1   The code will not compile because the array t2 is not initialized in an unconditional statement before use.
+\par \hich\af1\dbch\af31505\loch\f1   The code will compile but a runtime exception will be thrown at line 12.
+\par \hich\af1\dbch\af31505\loch\f1   The code will compile but a run\hich\af1\dbch\af31505\loch\f1 time exception will be thrown at line 11.
+\par \hich\af1\dbch\af31505\loch\f1   None of these.
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What will happen when you attempt to compile and run the following code?
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 class Base
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             int i = 99;
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             public void amethod()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         System.out.println("Base.amethod()");
+\par 
+\par \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Base()
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         amethod();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 public class Derived extends Base
+\par 
+\par \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             int i = -1;
+\par 
+\par \hich\af1\dbch\af31505\loch\f1        
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             public static void main(String argv[])
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             Base b = new Derived();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                     System.out.println(b.i);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                     b.amethod();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1       \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1            
+\par 
+\par \hich\af1\dbch\af31505\loch\f1       public void amethod()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1      \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                     System.out.println("Derived.amethod()");
+\par 
+\par \hich\af1\dbch\af31505\loch\f1    \hich\af1\dbch\af31505\loch\f1    \}
+\par 
+\par 
+\par \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par \hich\af1\dbch\af31505\loch\f1 Derived.amethod()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 -1
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Derived.amethod()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par \hich\af1\dbch\af31505\loch\f1 Derived.amethod()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 99
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Derived.amethod()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par \hich\af1\dbch\af31505\loch\f1 99
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Derived.amethod()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par \hich\af1\dbch\af31505\loch\f1 Compile time error
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 @
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 What will be the output on compiling/running the following code?
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             public class MyThread implements Runnable
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         String myString = "Yes ";
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         public void run()
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                     this.myString = "No ";
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         \}
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         public static void main(String[] args)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         \{
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                     MyThread t = new MyThread();
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                     new Thread(t).start();
+\par 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1           \hich\af1\dbch\af31505\loch\f1                           for (int i=0; i < 10; i++)
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                                     System.out.print(t.myString);
+\par 
+\par \hich\af1\dbch\af31505\loch\f1                         \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1             \}
+\par 
+\par \hich\af1\dbch\af31505\loch\f1  
+\par 
+\par \hich\af1\dbch\af31505\loch\f1   Compilation Error
+\par \hich\af1\dbch\af31505\loch\f1   Prints : Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes and so on.
+\par \hich\af1\dbch\af31505\loch\f1   Prints : No No No No No No No No No No and so on.
+\par \hich\af1\dbch\af31505\loch\f1   Prints : Yes No Yes No Yes No Yes No Yes No and so on.
+\par \hich\af1\dbch\af31505\loch\f1   The Output cannot be determined.}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid5732936 
+\par }{\*\themedata 504b030414000600080000002100e9de0fbfff0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb4ec3301045f748fc83e52d4a
+9cb2400825e982c78ec7a27cc0c8992416c9d8b2a755fbf74cd25442a820166c2cd933f79e3be372bd1f07b5c3989ca74aaff2422b24eb1b475da5df374fd9ad
+5689811a183c61a50f98f4babebc2837878049899a52a57be670674cb23d8e90721f90a4d2fa3802cb35762680fd800ecd7551dc18eb899138e3c943d7e503b6
+b01d583deee5f99824e290b4ba3f364eac4a430883b3c092d4eca8f946c916422ecab927f52ea42b89a1cd59c254f919b0e85e6535d135a8de20f20b8c12c3b0
+0c895fcf6720192de6bf3b9e89ecdbd6596cbcdd8eb28e7c365ecc4ec1ff1460f53fe813d3cc7f5b7f020000ffff0300504b030414000600080000002100a5d6
+a7e7c0000000360100000b0000005f72656c732f2e72656c73848fcf6ac3300c87ef85bd83d17d51d2c31825762fa590432fa37d00e1287f68221bdb1bebdb4f
+c7060abb0884a4eff7a93dfeae8bf9e194e720169aaa06c3e2433fcb68e1763dbf7f82c985a4a725085b787086a37bdbb55fbc50d1a33ccd311ba548b6309512
+0f88d94fbc52ae4264d1c910d24a45db3462247fa791715fd71f989e19e0364cd3f51652d73760ae8fa8c9ffb3c330cc9e4fc17faf2ce545046e37944c69e462
+a1a82fe353bd90a865aad41ed0b5b8f9d6fd010000ffff0300504b0304140006000800000021006b799616830000008a0000001c0000007468656d652f746865
+6d652f7468656d654d616e616765722e786d6c0ccc4d0ac3201040e17da17790d93763bb284562b2cbaebbf600439c1a41c7a0d29fdbd7e5e38337cedf14d59b
+4b0d592c9c070d8a65cd2e88b7f07c2ca71ba8da481cc52c6ce1c715e6e97818c9b48d13df49c873517d23d59085adb5dd20d6b52bd521ef2cdd5eb9246a3d8b
+4757e8d3f729e245eb2b260a0238fd010000ffff0300504b03041400060008000000210030dd4329a8060000a41b0000160000007468656d652f7468656d652f
+7468656d65312e786d6cec594f6fdb3614bf0fd87720746f6327761a07758ad8b19b2d4d1bc46e871e698996d850a240d2497d1bdae38001c3ba618715d86d87
+615b8116d8a5fb34d93a6c1dd0afb0475292c5585e9236d88aad3e2412f9e3fbff1e1fa9abd7eec70c1d1221294fda5efd72cd4324f1794093b0eddd1ef62fad
+79482a9c0498f184b4bd2991deb58df7dfbb8ad755446282607d22d771db8b944ad79796a40fc3585ee62949606ecc458c15bc8a702910f808e8c66c69b9565b
+5d8a314d3c94e018c8de1a8fa94fd05093f43672e23d06af89927ac06762a049136785c10607758d9053d965021d62d6f6804fc08f86e4bef210c352c144dbab
+999fb7b4717509af678b985ab0b6b4ae6f7ed9ba6c4170b06c788a705430adf71bad2b5b057d03606a1ed7ebf5babd7a41cf00b0ef83a6569632cd467faddec9
+699640f6719e76b7d6ac355c7c89feca9cccad4ea7d36c65b258a206641f1b73f8b5da6a6373d9c11b90c537e7f08dce66b7bbeae00dc8e257e7f0fd2badd586
+8b37a088d1e4600ead1ddaef67d40bc898b3ed4af81ac0d76a197c86826828a24bb318f3442d8ab518dfe3a20f000d6458d104a9694ac6d88728eee2782428d6
+0cf03ac1a5193be4cbb921cd0b495fd054b5bd0f530c1931a3f7eaf9f7af9e3f45c70f9e1d3ff8e9f8e1c3e3073f5a42ceaa6d9c84e5552fbffdeccfc71fa33f
+9e7ef3f2d117d57859c6fffac327bffcfc793510d26726ce8b2f9ffcf6ecc98baf3efdfdbb4715f04d814765f890c644a29be408edf3181433567125272371be
+15c308d3f28acd249438c19a4b05fd9e8a1cf4cd296699771c393ac4b5e01d01e5a30a787d72cf1178108989a2159c77a2d801ee72ce3a5c545a6147f32a9979
+3849c26ae66252c6ed637c58c5bb8b13c7bfbd490a75330f4b47f16e441c31f7184e140e494214d273fc80900aedee52ead87597fa824b3e56e82e451d4c2b4d
+32a423279a668bb6690c7e9956e90cfe766cb37b077538abd27a8b1cba48c80acc2a841f12e698f13a9e281c57911ce298950d7e03aba84ac8c154f8655c4f2a
+f074481847bd804859b5e696007d4b4edfc150b12addbecba6b18b148a1e54d1bc81392f23b7f84137c2715a851dd0242a633f900710a218ed715505dfe56e86
+e877f0034e16bafb0e258ebb4faf06b769e888340b103d331115bebc4eb813bf83291b63624a0d1475a756c734f9bbc2cd28546ecbe1e20a3794ca175f3fae90
+fb6d2dd99bb07b55e5ccf68942bd0877b23c77b908e8db5f9db7f024d9239010f35bd4bbe2fcae387bfff9e2bc289f2fbe24cfaa301468dd8bd846dbb4ddf1c2
+ae7b4c191ba8292337a469bc25ec3d411f06f53a73e224c5292c8de0516732307070a1c0660d125c7d44553488700a4d7bddd3444299910e254ab984c3a219ae
+a4adf1d0f82b7bd46cea4388ad1c12ab5d1ed8e1153d9c9f350a3246aad01c6873462b9ac05999ad5cc988826eafc3acae853a33b7ba11cd1445875ba1b236b1
+399483c90bd560b0b0263435085a21b0f22a9cf9356b38ec6046026d77eba3dc2dc60b17e92219e180643ed27acffba86e9c94c7ca9c225a0f1b0cfae0788ad5
+4adc5a9aec1b703b8b93caec1a0bd8e5de7b132fe5113cf312503b998e2c2927274bd051db6b35979b1ef271daf6c6704e86c73805af4bdd476216c26593af84
+0dfb5393d964f9cc9bad5c313709ea70f561ed3ea7b053075221d51696910d0d339585004b34272bff7213cc7a510a5454a3b349b1b206c1f0af490176745d4b
+c663e2abb2b34b23da76f6352ba57ca2881844c1111ab189d8c7e07e1daaa04f40255c77988aa05fe06e4e5bdb4cb9c5394bbaf28d98c1d971ccd20867e556a7
+689ec9166e0a522183792b8907ba55ca6e943bbf2a26e52f48957218ffcf54d1fb09dc3eac04da033e5c0d0b8c74a6b43d2e54c4a10aa511f5fb021a07533b20
+5ae07e17a621a8e082dafc17e450ffb739676998b48643a4daa7211214f623150942f6a02c99e83b85583ddbbb2c4996113211551257a656ec1139246ca86be0
+aadedb3d1441a89b6a929501833b197fee7b9641a3503739e57c732a59b1f7da1cf8a73b1f9bcca0945b874d4393dbbf10b1680f66bbaa5d6f96e77b6f59113d
+316bb31a795600b3d256d0cad2fe354538e7566b2bd69cc6cbcd5c38f0e2bcc63058344429dc2121fd07f63f2a7c66bf76e80d75c8f7a1b622f878a18941d840
+545fb28d07d205d20e8ea071b283369834296bdaac75d256cb37eb0bee740bbe278cad253b8bbfcf69eca23973d939b97891c6ce2cecd8da8e2d343578f6648a
+c2d0383fc818c798cf64e52f597c740f1cbd05df0c264c49134cf09d4a60e8a107260f20f92d47b374e32f000000ffff0300504b030414000600080000002100
+0dd1909fb60000001b010000270000007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73848f4d0ac2301484f7
+8277086f6fd3ba109126dd88d0add40384e4350d363f2451eced0dae2c082e8761be9969bb979dc9136332de3168aa1a083ae995719ac16db8ec8e4052164e89
+d93b64b060828e6f37ed1567914b284d262452282e3198720e274a939cd08a54f980ae38a38f56e422a3a641c8bbd048f7757da0f19b017cc524bd62107bd500
+1996509affb3fd381a89672f1f165dfe514173d9850528a2c6cce0239baa4c04ca5bbabac4df000000ffff0300504b01022d0014000600080000002100e9de0f
+bfff0000001c0200001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d0014000600080000002100a5d6
+a7e7c0000000360100000b00000000000000000000000000300100005f72656c732f2e72656c73504b01022d00140006000800000021006b799616830000008a
+0000001c00000000000000000000000000190200007468656d652f7468656d652f7468656d654d616e616765722e786d6c504b01022d00140006000800000021
+0030dd4329a8060000a41b00001600000000000000000000000000d60200007468656d652f7468656d652f7468656d65312e786d6c504b01022d001400060008
+00000021000dd1909fb60000001b0100002700000000000000000000000000b20900007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73504b050600000000050005005d010000ad0a00000000}
+{\*\colorschememapping 3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d22796573223f3e0d0a3c613a636c724d
+617020786d6c6e733a613d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f64726177696e676d6c2f323030362f6d6169
+6e22206267313d226c743122207478313d22646b3122206267323d226c743222207478323d22646b322220616363656e74313d22616363656e74312220616363
+656e74323d22616363656e74322220616363656e74333d22616363656e74332220616363656e74343d22616363656e74342220616363656e74353d22616363656e74352220616363656e74363d22616363656e74362220686c696e6b3d22686c696e6b2220666f6c486c696e6b3d22666f6c486c696e6b222f3e}
+{\*\latentstyles\lsdstimax267\lsdlockeddef0\lsdsemihiddendef1\lsdunhideuseddef1\lsdqformatdef0\lsdprioritydef99{\lsdlockedexcept \lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority0 \lsdlocked0 Normal;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 1;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 2;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 3;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 4;
+\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 5;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 6;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 7;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 8;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 9;
+\lsdpriority39 \lsdlocked0 toc 1;\lsdpriority39 \lsdlocked0 toc 2;\lsdpriority39 \lsdlocked0 toc 3;\lsdpriority39 \lsdlocked0 toc 4;\lsdpriority39 \lsdlocked0 toc 5;\lsdpriority39 \lsdlocked0 toc 6;\lsdpriority39 \lsdlocked0 toc 7;
+\lsdpriority39 \lsdlocked0 toc 8;\lsdpriority39 \lsdlocked0 toc 9;\lsdqformat1 \lsdpriority35 \lsdlocked0 caption;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority10 \lsdlocked0 Title;\lsdpriority1 \lsdlocked0 Default Paragraph Font;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority11 \lsdlocked0 Subtitle;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority22 \lsdlocked0 Strong;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority20 \lsdlocked0 Emphasis;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority59 \lsdlocked0 Table Grid;\lsdunhideused0 \lsdlocked0 Placeholder Text;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority1 \lsdlocked0 No Spacing;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 1;\lsdunhideused0 \lsdlocked0 Revision;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority34 \lsdlocked0 List Paragraph;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority29 \lsdlocked0 Quote;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority30 \lsdlocked0 Intense Quote;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority19 \lsdlocked0 Subtle Emphasis;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority21 \lsdlocked0 Intense Emphasis;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority31 \lsdlocked0 Subtle Reference;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority32 \lsdlocked0 Intense Reference;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority33 \lsdlocked0 Book Title;\lsdpriority37 \lsdlocked0 Bibliography;\lsdqformat1 \lsdpriority39 \lsdlocked0 TOC Heading;}}{\*\datastore 010500000200000018000000
+4d73786d6c322e534158584d4c5265616465722e362e3000000000000000000000060000
+d0cf11e0a1b11ae1000000000000000000000000000000003e000300feff090006000000000000000000000001000000010000000000000000100000feffffff00000000feffffff0000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e5000000000000000000000000600b
+3b58ce2fd401feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000105000000000000}}
