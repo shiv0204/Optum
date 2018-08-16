@@ -1,0 +1,231 @@
+Introduction:
+=============
+-Exception handling in Java is very robust and easy to understand and use. -Exceptions in java can arise from different kind of situations 
+ such as wrong data entered by user, hardware failure, network connection failure,  Database server down etc.
+
+About:
+=====
+-Java being an object oriented programming language, whenever an error occurs while executing a statement, creates an exception object and then the normal flow of the program halts and JRE tries to find someone that can handle the raised exception. 
+-The exception object contains a lot of debugging information such as method hierarchy, line number where the exception occurred, type of exception etc. 
+-When the exception occurs in a method, the process of creating the exception object and handing it over to runtime environment is called “throwing the exception”.
+
+ExceptionHandling:????
+==================
+-Once runtime receives the exception object, it tries to find the handler for the exception.
+
+-Exception Handler is the block of code that can process the exception object. 
+-The logic to find the exception handler is simple – starting the search in the method where error occurred, if no appropriate handler found, then move to the caller method and so on. 
+
+Example:
+========
+-If methods call stack is A->B->C and exception is raised in method C, then the search for appropriate handler will move from C->B->A. If appropriate exception handler is found, exception object is passed to the handler to process it. The handler is said to be “catching the exception”. 
+-If there are no appropriate exception handler found then program terminates printing information about the exception.
+
+Java Exception Handling Keywords:
+=================================
+
+-throw – We know that if any exception occurs, an exception object is getting created and then Java runtime starts processing to handle them. Sometime we might want to generate exception explicitly in our code, 
+
+==for example in a user authentication program we should throw exception to client if the password is null. throw keyword is used to throw exception to the runtime to handle it.
+
+-throws – When we are throwing any exception in a method and not handling it, then we need to use throws keyword in method signature to let caller program know the exceptions that might be thrown by the method. The caller method might handle these exceptions or propagate it to it’s caller method using throws keyword. We can provide multiple exceptions in the throws clause and it can be used with main() method also.
+
+-try-catch – We use try-catch block for exception handling in our code. try is the start of the block and catch is at the end of try block to handle the exceptions. We can have multiple catch blocks with a try and try-catch block can be nested also. catch block requires a parameter that should be of type Exception.
+
+-finally – finally block is optional and can be used only with try-catch block. Since exception halts the process of execution, we might have some resources open that will not get closed, so we can use finally block. finally block gets executed always, whether exception occurred or not.
+ 
+Let's see an example:
+=====================
+
+
+Points to be noted:
+===================
+-We can’t have catch or finally clause without a try statement.
+-A try statement should have either catch block or finally block, it can have both blocks.
+-We can’t write any code between try-catch-finally block.
+-We can have multiple catch blocks with a single try statement.
+-try-catch blocks can be nested similar to if-else statements.
+-We should have only one finally block with a try-catch statement.
+
+Java Exception Hierarchy:
+=========================
+
+Throwable is the parent class of Java Exceptions Hierarchy and it has two child objects – Error and Exception. Exceptions are further divided into checked exceptions and runtime exception.
+
+
+Errors: 
+================== 
+Errors are exceptional scenarios that are out of scope of application and it’s not possible to anticipate and recover from them, for example hardware failure, JVM crash or out of memory error. That’s why we have a separate hierarchy of errors and we should not try to handle these situations. Some of the common Errors are OutOfMemoryError and StackOverflowError.
+
+Checked Exceptions: 
+================== 
+Checked Exceptions are exceptional scenarios that we can anticipate in a program and try to recover from it, 
+-for example FileNotFoundException. We should catch this exception and provide useful message to user and log it properly for debugging purpose. 
+
+-Exception is the parent class of all Checked Exceptions and if we are throwing a checked exception, we must catch it in the same method or we have to propagate it to the caller using throws keyword.
+
+Runtime Exception:
+================== 
+Runtime Exceptions are cause by bad programming, 
+
+-for example trying to retrieve an element from the Array. We should check the length of array first before trying to retrieve the element otherwise it might throw ArrayIndexOutOfBoundException at runtime. 
+-RuntimeException is the parent class of all runtime exceptions. If we are throwing any runtime exception in a method, it’s not required to specify them in the method signature throws clause. Runtime exceptions can be avoided with better programming.
+
+Let's observe the diagram:
+++++++++++++++++++++++++++
+
+
+Exception Handling in Java – Useful Methods
+===========================================
+
+Java Exception and all of it’s subclasses doesn’t provide any specific methods and all of the methods are defined in the base class Throwable. The exception classes are created to specify different kind of exception scenarios so that we can easily identify the root cause and handle the exception according to it’s type. Throwable class implements Serializable interface for interoperability.
+
+Some of the useful methods of Throwable class are;
+
+public String getMessage()
+=============================
+ – This method returns the message String of Throwable and the message can be provided while creating the exception through it’s constructor.
+
+public String getLocalizedMessage() 
+===================================
+– This method is provided so that subclasses can override it to provide locale specific message to the calling program. Throwable class implementation of this method simply use getMessage() method to return the exception message.
+
+public synchronized Throwable getCause() 
+========================================
+– This method returns the cause of the exception or null id the cause is unknown.
+
+public String toString() 
+========================
+– This method returns the information about Throwable in String format, the returned String contains the name of Throwable class and localized message.
+
+public void printStackTrace() 
+=============================
+– This method prints the stack trace information to the standard error stream, this method is overloaded and we can pass PrintStream or PrintWriter as argument to write the stack trace information to the file or stream.
+
+
+Java 7 Automatic Resource Management and Catch block improvements
+=================================================================
+
+Before Java 7, we used to catch multiple exceptions one by one as shown below.
+
+catch (IOException ex) {
+     logger.error(ex);
+     throw new MyException(ex.getMessage());
+catch (SQLException ex) {
+     logger.error(ex);
+     throw new MyException(ex.getMessage());
+}
+
+In Java 7, we can catch both these exceptions in a single catch block as:
+
+catch(IOException | SQLException ex){
+     logger.error(ex);
+     throw new MyException(ex.getMessage());
+}
+
+Java try with resources benefits:
+================================
+
+Some of the benefits of using try with resources in java are:
+
+-More readable code and easy to write.
+-Automatic resource management.
+-Number of lines of code is reduced.
+-No need of finally block just to close the resources.
+-We can open multiple resources in try-with-resources statement separated by a semicolon. 
+
+ For example, we can write following code:
+==========================================
+try (BufferedReader br = new BufferedReader(new FileReader(
+				"C:\\sample.txt"));
+				java.io.BufferedWriter writer = java.nio.file.Files.newBufferedWriter(FileSystems.getDefault().getPath("C:\\journaldev.txt"), Charset.defaultCharset())) {
+			System.out.println(br.readLine());
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+
+-When multiple resources are opened in try-with-resources, it closes them in the reverse order to avoid any dependency issue. You can extend my resource program to prove that.
+
+-Java 7 has introduced a new interface java.lang.AutoCloseable. To use any resource in try-with-resources, it must implement AutoCloseable interface else java compiler will throw compilation error.
+
+Let's see an example:
+
+
+Try with Resources Exceptions
+==============================
+There is one difference to note between try-catch-finally and try-with-resources in case of exceptions.
+
+If an exception is thrown in both try block and finally block, the method returns the exception thrown in finally block.
+
+For try-with-resources, if exception is thrown in try block and in try-with-resources statement, then method returns the exception thrown in try block.
+
+To better clarify this difference, we will see a sample code.
+
+
+Exception Handling in Java – Best Practices
+===========================================
+
+-Use Specific Exceptions 
+=========================
+
+-Throw Early or Fail-Fast 
+==========================
+ We should try to throw exceptions as early as possible. 
+Consider above processFile() method, if we pass null argument to this method we will get following exception.
+Exception in thread "main" java.lang.NullPointerException
+	at java.io.FileInputStream.<init>(FileInputStream.java:134)
+	at java.io.FileInputStream.<init>(FileInputStream.java:97)
+	at com.journaldev.exceptions.CustomExceptionExample.processFile(CustomExceptionExample.java:42)
+	at com.journaldev.exceptions.CustomExceptionExample.main(CustomExceptionExample.java:12)
+
+While debugging we will have to look out at the stack trace carefully to identify the actual location of exception. If we change our implementation logic to check for these exceptions early as below;
+
+private static void processFile(String file) throws MyException {
+		if(file == null) throw new MyException("File name can't be null", "NULL_FILE_NAME");
+//further processing
+}
+
+Then the exception stack trace will be like below that clearly shows where the exception has occurred with clear message.
+
+com.journaldev.exceptions.MyException: File name can't be null
+	at com.journaldev.exceptions.CustomExceptionExample.processFile(CustomExceptionExample.java:37)
+	at com.journaldev.exceptions.CustomExceptionExample.main(CustomExceptionExample.java:12)
+
+- Catch Late 
+==========================
+– Since java enforces to either handle the checked exception or to declare it in method signature, sometimes developers tend to catch the exception and log the error. But this practice is harmful because the caller program doesn’t get any notification for the exception. We should catch exception only when we can handle it appropriately. For example, in above method I am throwing exception back to the caller method to handle it. The same method could be used by other applications that might want to process exception in a different manner. While implementing any feature, we should always throw exceptions back to the caller and let them decide how to handle it.
+
+-Closing Resources 
+==========================
+– Since exceptions halt the processing of program, we should close all the resources in finally block or use Java 7 try-with-resources enhancement to let java runtime close it for you.
+
+-Logging Exceptions 
+==========================
+– We should always log exception messages and while throwing exception provide clear message so that caller will know easily why the exception occurred. We should always avoid empty catch block that just consumes the exception and doesn’t provide any meaningful details of exception for debugging.
+
+-Single catch block for multiple exceptions 
+===========================================
+– Most of the times we log exception details and provide message to the user, in this case we should use java 7 feature for handling multiple exceptions in a single catch block. This approach will reduce our code size and it will look cleaner too.
+
+-Using Custom Exceptions 
+======================================
+– It’s always better to define exception handling strategy at the design time and rather than throwing and catching multiple exceptions, we can create a custom exception with error code and caller program can handle these error codes. Its also a good idea to create a utility method to process different error codes and use it.
+
+-Naming Conventions and Packaging 
+======================================
+– When you create your custom exception, make sure it ends with Exception so that it will be clear from name itself that it’s an exception. Also make sure to package them like it’s done in JDK, for example IOException is the base exception for all IO operations.
+
+-Use Exceptions Judiciously 
+======================================
+– Exceptions are costly and sometimes it’s not required to throw exception at all and we can return a boolean variable to the caller program to indicate whether an operation was successful or not. This is helpful where the operation is optional and you don’t want your program to get stuck because it fails. For example, while updating the stock quotes in database from a third party webservice, we may want to avoid throwing exception if the connection fails.
+
+-Document the Exceptions Thrown 
+======================================
+– Use javadoc @throws to clearly specify the exceptions thrown by the method, it’s very helpful when you are providing an interface to other applications to use.
+
+
+
+
+
+
+
